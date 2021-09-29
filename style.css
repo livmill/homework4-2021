@@ -151,7 +151,6 @@ tr:nth-child(odd) {
 tr:nth-child(even) {
   background-color: #D1D1D1;
 }
-/*Add selectors and rules here*/
 
 tr:hover {
   background-color: rgba(126,8,37,0.25);
